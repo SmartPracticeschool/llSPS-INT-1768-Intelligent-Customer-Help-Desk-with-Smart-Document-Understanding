@@ -14,4 +14,19 @@ To take it a step further, the project shall use the Smart Document Understandin
    - Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
 
    - Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+   
+   
+###DETAILS
+
+Name: Manish Anand Pawar
+
+E-mail : heymanishp@gmail.com 
+
+Category: Artificial Intelligence Internship at SMARTINTERNZ 
+
+Application ID: SPS_APL_20200003541 
+
+Project ID: SPS_PRO_99
+
+Youtube link: https://youtu.be/y8ZmkSutRxQ
 
