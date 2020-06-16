@@ -28,5 +28,7 @@ Application ID: SPS_APL_20200003541
 
 Project ID: SPS_PRO_99
 
-Youtube link: https://youtu.be/y8ZmkSutRxQ
+Demo video link: https://youtu.be/QaqDpcngjnw
+
+Feedback video link: https://youtu.be/QdZ1lyouWAc
 
